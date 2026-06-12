@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Zain 👋</h1>
-<h3 align="center">AI Engineering Student | Generative AI & Agentic Systems Developer</h3>
 
-<p align="center">
-  <img src="https://www.linkedin.com/in/zain-siddiqui-0a0729407/" />
 </p>
 
 ---
