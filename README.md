@@ -60,5 +60,6 @@ A RAG-based AI assistant that reads PDF documents and answers questions in natur
 
 https://github.com/Zainsiddiqui555/Zainsiddiqui555/main/README.md
 
-
+### Linkedin 
+www.linkedin.com/in/zain-siddiqui-0a0729407
 
