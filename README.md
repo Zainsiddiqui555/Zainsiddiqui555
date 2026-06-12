@@ -62,19 +62,8 @@ A RAG-based AI assistant that reads PDF documents and answers questions in natur
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=00A896&text_color=4A5568" />
+  <img src="https://github.com/Zainsiddiqui555/Zainsiddiqui555/main/README.md" />
 </p>
 
----
-
-### Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/zain-siddiqui-0a0729407/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+--
 
