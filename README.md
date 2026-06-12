@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineering Student | Generative AI & Agentic Systems Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00A896&style=flat" alt="profile views" />
+  <img src="https://www.linkedin.com/in/zain-siddiqui-0a0729407/" />
 </p>
 
 ---
