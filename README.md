@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zain 👋</h1>
+<h1 align="center">Hi, I'm Zain </h1>
 
 </p>
 
@@ -6,10 +6,10 @@
 
 ### About Me
 
-- 🎓 Student focused on **Artificial Intelligence, AI Engineering, and Generative AI Systems**
-- 🤖 Building **AI chatbots, agentic systems, and RAG-based applications**
-- 🩺 Interested in the **intersection of AI and Healthcare** — exploring how Generative AI can assist medical and laboratory workflows
-- 🛠 Working with **FastAPI, vector databases, LLM integration, and AI automation tools (n8n)**
+-  Student focused on **Artificial Intelligence, AI Engineering, and Generative AI Systems**
+-  Building **AI chatbots, agentic systems, and RAG-based applications**
+-  Interested in the **intersection of AI and Healthcare** — exploring how Generative AI can assist medical and laboratory workflows
+-  Working with **FastAPI, vector databases, LLM integration, and AI automation tools (n8n)**
 
 ---
 
