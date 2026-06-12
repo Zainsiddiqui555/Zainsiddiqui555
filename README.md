@@ -70,7 +70,7 @@ A RAG-based AI assistant that reads PDF documents and answers questions in natur
 ### Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/zain-siddiqui-0a0729407">
+  <a href="https://www.linkedin.com/in/zain-siddiqui-0a0729407/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
